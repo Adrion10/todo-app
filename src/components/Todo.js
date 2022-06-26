@@ -6,7 +6,7 @@ const Todo = () => {
       <h1>TODO Aplication</h1>
       <form>
         <label htmlFor="id">Input Item</label>
-        <imput id="id" />
+        <input id="id"></input>
         <button> Add</button>
       </form>
     </div>
